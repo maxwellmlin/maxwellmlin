@@ -1,5 +1,6 @@
-# What's up
+# Hello there!
 
 - 👋 Hi, I’m Max
-- 📚 Learning git right now
+- 📚 I'm a student
+
 - 👨‍💻 [maxwellmlin.github.io](https://maxwellmlin.github.io)
