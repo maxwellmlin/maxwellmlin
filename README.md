@@ -2,4 +2,4 @@
 
 - 👋 Hi, I’m Max
 - 📚 I'm a student at Duke University studying CS + Math
-- 💻 maxwellmlin.com
+- 💻 [maxwellmlin.com](maxwellmlin.com)
