@@ -1,3 +1,3 @@
-I am an undergraduate researcher investigating the state of website compliance with current privacy laws. I also design, implement, and test autonomous underwater vehicles at Duke Robotics.
+I am an undergraduate researcher at Duke University working in AI/ML, robotics, and security/privacy.
 
 [maxwellmlin.com](https://maxwellmlin.com)
